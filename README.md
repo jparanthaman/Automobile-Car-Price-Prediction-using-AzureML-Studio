@@ -49,6 +49,14 @@ Note: The model is trained to predict the price column using linear regression a
 
 ![image8](https://github.com/jparanthaman/Automobile-Car-Price-Prediction-using-AzureML-Studio/assets/81980087/07398d57-de0d-4f37-93dd-ea5d2da0c3a4)
 
+->Predictive Experiment:
+
+![image9](https://github.com/jparanthaman/Automobile-Car-Price-Prediction-using-AzureML-Studio/assets/81980087/ca6e938d-3c3b-4689-a43b-354e8b1fe3f4)
+
+->Testing:
+
+![image10](https://github.com/jparanthaman/Automobile-Car-Price-Prediction-using-AzureML-Studio/assets/81980087/0c5619bc-976c-4e34-b2bc-5e6ff96b3a7c)
+
 ->Input Data For Prediction:
 
 ![image11](https://github.com/jparanthaman/Automobile-Car-Price-Prediction-using-AzureML-Studio/assets/81980087/9e1ce7e0-11aa-49a4-a23e-05ed58a48939)
