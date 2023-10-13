@@ -17,6 +17,7 @@ Demo Images :
 
 ->Data Preprocessing
 
+![image1](https://github.com/jparanthaman/Automobile-Car-Price-Prediction-using-AzureML-Studio/assets/81980087/ab1e1874-67a7-4b6e-96c3-f0bf08f3efad)
 
 
 note: The normalized losses has 41 missing values to handel that the missing value rows are dropped from the dataset.
